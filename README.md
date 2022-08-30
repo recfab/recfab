@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on DevOps tools, especially surrounding Kuberenetes
 - 📫 How to reach me 
   - [GitLab](https://gitlab.com/recfab)
-  - [Twitter](https://twitter.com/recfab)
   - [GitHub](https://github.com/recfab)
 
 <!---
