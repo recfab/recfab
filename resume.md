@@ -1,12 +1,32 @@
 # Yael Namen
 
-:dotnet: image:dotnet.png[.NET] &#x3A;jquery: image:jquery.png[jQuery] &#x3A;mssql: image:sqlserver.png[Microsoft SQL Server] &#x3A;p4: image:p4.png[Perforce] &#x3A;toc:
+## Skills
+
+- DevOps tools
+  - GitLab CI/CD Pipelines
+  - Kubernetes
+  - Terraform
+  - Argo CD
+- Cloud Technology
+  - Amazon Web Services
+- Programming languages
+  - .NET (Mostly C#, some F#)
+  - Python
+  - Node.js
+  - Go
 
 ## Work History
 
 ### Wizards of the Coast
 
 May 2013 -> Present
+
+#### Senior Infrastructure Engineer
+
+- Aiding product teams in their migration effort from internal instance of GitLab to SaaS Gitlab (i.e. gitlab.com)
+- Building Kubernetes clusters and installing "infrastructure services" onto said cluster with Argo CD
+- Building networks in AWS via Route53, VPCs, Subnets etc.
+- Defining and documenting patterns for deploying applications via Argo CD, along with Argo Rollouts and infrastructure with Terraform, to be used by product teams.
 
 #### Senior Software Developer
 
