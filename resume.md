@@ -1,25 +1,12 @@
 # Yael Namen
 
-## Skills
+Software Generalist with **15+ years of experience**, with a holistic view of the of the SDLC, and a focus on the "Dev" side of DevOps.
 
-- DevOps tools
-  - GitLab CI/CD Pipelines
-  - Kubernetes
-  - Terraform
-  - Argo CD
-- Cloud Technology
-  - Amazon Web Services
-- Programming languages
-  - .NET (Mostly C#, some F#)
-  - Python
-  - Node.js
-  - Go
-
-## Work History
+## Experience
 
 ### Wizards of the Coast
 
-May 2013 -> Present
+May 2013--Present
 
 #### Senior Infrastructure Engineer
 
@@ -45,7 +32,7 @@ May 2013 -> Present
 
 ### MCG Health, LLC (formerly _Milliman Care Guidelines_)
 
-October 2011 -> May 2013
+October 2011--May 2013
 
 #### Software Development Engineer
 
@@ -57,7 +44,7 @@ October 2011 -> May 2013
 
 ### Ventyx, an ABB Company (formerly _Insert Key Solutions, Inc._)
 
-November 2006 -> October 2011
+November 2006--October 2011
 
 #### Software Developer / Analyst
 
@@ -69,3 +56,18 @@ November 2006 -> October 2011
 - Agile development, using Visual Studio 2010 and Team Foundation Server integration for maintenance of source code and issue tracking.
 - Loaded legacy data from customer sources, typically Excel spreadsheets and Access databases
 - Development of integration procedures for communication between our applications and the customers' other systems
+
+## Skills
+
+- DevOps tools
+  - GitLab CI/CD Pipelines
+  - Kubernetes
+  - Terraform
+  - Argo CD
+- Cloud Technology
+  - Amazon Web Services
+- Programming languages
+  - .NET (Mostly C#, some F#)
+  - Python
+  - Node.js
+  - Go
