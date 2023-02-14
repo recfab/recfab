@@ -1,2 +1,5 @@
-resume.pdf: resume.md
-	pandoc --from markdown --to pdf -t html5 -o $@ $<
+resume.pdf: resume.html
+	wkhtmltopdf $< $@
+
+resume.html: resume.md
+	pandoc -s --from markdown --to html -o $@ $<
