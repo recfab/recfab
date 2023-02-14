@@ -1,14 +1,19 @@
 ---
-title: "Yael Namen"
+pagetitle: "Yael Namen's Resume"
 ---
+::: { #header }
+# Yael Namen
 
 phone
-~ 206-330-5026
+: 206-330-5026
 
 email
-~ yael.namen@icloud.com
+: yael.namen@icloud.com
+:::
 
+::: { #summary }
 Software Generalist with **15+ years of experience**, specializing in distributed systems, and an eye towards both sides of the DevOps lifecycle.
+:::
 
 ## Experience
 
@@ -65,19 +70,15 @@ November 2006--October 2011
 - Loaded legacy data from customer sources, typically Excel spreadsheets and Access databases
 - Development of integration procedures for communication between our applications and the customers' other systems
 
-## Skills
+::: { #skills }
+## Skills { #skills-h }
 
 DevOps tools
-~ GitLab CI/CD Pipelines
-~ Kubernetes
-~ Terraform
-~ Argo CD
+: GitLab CI/CD Pipelines, Kubernetes, Terraform, Argo CD
 
 Cloud Technology
-~ Amazon Web Services
+: Amazon Web Services
 
 Programming languages
-~ .NET (Mostly C#, some F#)
-~ Python
-~ Node.js
-~ Go
+: .NET (Mostly C#, some F#), Python, Node.js, Go
+:::

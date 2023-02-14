@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 5rem;
+}
+
+#header {
+    --header-color: hsl(0, 0%, 25%);
+    color: var(--header-color);
+    text-align: center;
+
+    border-bottom: 2px solid var(--header-color);
+}
+
+#header>dl {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#header>dl>dd {
+    margin: 0 2em;
+}
+
+dl>dt {
+    font-weight: bolder;
+}
+
+dl>dt::after {
+    content: ":"
+}
+
+ul>li {
+    padding-top: .75ex;
+    padding-bottom: .75ex;
+}
+
+#skills>dl>dd {
+    padding-bottom: 1ex;
+}
