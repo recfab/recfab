@@ -1,14 +1,22 @@
-# Yael Namen
+---
+title: "Yael Namen"
+---
 
-Software Generalist with **15+ years of experience**, with a holistic view of the of the SDLC, and a focus on the "Dev" side of DevOps.
+phone
+~ 206-330-5026
+
+email
+~ yael.namen@icloud.com
+
+Software Generalist with **15+ years of experience**, specializing in distributed systems, and an eye towards both sides of the DevOps lifecycle.
 
 ## Experience
 
 ### Wizards of the Coast
 
-May 2013--Present
+May 2013--February 2023
 
-#### Senior Infrastructure Engineer
+#### Senior DevOps Engineer
 
 - Aiding product teams in their migration effort from internal instance of GitLab to SaaS Gitlab (i.e. gitlab.com)
 - Building Kubernetes clusters and installing "infrastructure services" onto said cluster with Argo CD
@@ -59,15 +67,17 @@ November 2006--October 2011
 
 ## Skills
 
-- DevOps tools
-  - GitLab CI/CD Pipelines
-  - Kubernetes
-  - Terraform
-  - Argo CD
-- Cloud Technology
-  - Amazon Web Services
-- Programming languages
-  - .NET (Mostly C#, some F#)
-  - Python
-  - Node.js
-  - Go
+DevOps tools
+~ GitLab CI/CD Pipelines
+~ Kubernetes
+~ Terraform
+~ Argo CD
+
+Cloud Technology
+~ Amazon Web Services
+
+Programming languages
+~ .NET (Mostly C#, some F#)
+~ Python
+~ Node.js
+~ Go
