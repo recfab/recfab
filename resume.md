@@ -24,16 +24,15 @@ May 2013--February 2023
 #### Senior DevOps Engineer
 
 - Aided product teams in their migration effort from internal instance of **GitLab** to SaaS Gitlab (i.e. gitlab.com)
-- Used **Terraform** to build **Kubernetes (EKS)** (EKS) clusters for product teams, along with requisite network resources such as **Route53** HostedZones and VPCs.
+- Used **Terraform** to build **Kubernetes** clusters for product teams, along with requisite network resources such as **Route53** records and VPCs.
 - Defined and documented patterns for deploying applications via **Argo CD**, along with **Argo Rollouts** and infrastructure with Terraform, to be used by product teams.
 
 #### Senior Software Developer
 
-- Utilized Amazon Simple Queue Service to allow migration from legacy systems to new systems.
-  This involved modifying legacy systems to send messages, as well as an orchestration service to consume those messages and shuttle them to the appropriate microservice.
-- Later, rewrote this ETL system using Database-to-Database calls in order to improve speed, reduce data discrepancies between the legacy and new systems, as well as remove our reliance on the legacy services that sit on top of the legacy database.
-- Developer on the new Store & Event Locator, a Vue.js front end application supported by microservices
-- Various microservices related Organized Play, written primarily in dotnet core, as well as Node.js, and hosted in a Kubernetes cluster.
+- Developed GitLab CI/CD pipelines and corresponding shell scripts to package and deploy the below listed microservices to a Kubernetes cluster.
+- Contributed to an ETL system to enable data synchronization between legacy systems and new systems. Originally, this was a service based on **Simple Queue Service** messages. I later rewrote this to use database-to-database calls, resulting in fewer data discrepancies and reducing processing time from several hours to approximately 20 minutes.
+- Contributed to the new _Store & Event Locator_, a **Vue.js** front end application supported by below-listed microservices.
+- Contributed to suite of microservices, written in **.NET Core**, supporting Organized Play
 - Lead developer on _Wizards Large Tournament Reporter (WLTR)_, an **NW.js** based application for running large scale (2000-5000 players) *Magic: the Gathering* tournaments.
 - Contributed to the _New Wizards Account System_
 - Contributed to _PlanesWalkerPoints.com_, a leaderboard for players of Magic the Gathering, written in **ASP.NET**
