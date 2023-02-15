@@ -49,11 +49,9 @@ October 2011--May 2013
 
 #### Software Development Engineer
 
-- Worked on the development team of the flagship product, including as the sole developer for a customer preview site of new functionality
-- Utilized Agile / Scrum style development practices in a small team, supported by a White Board and TFS for work item tracking, and TFS for source control.
-  Prior to transitioning to TFS, we used Subversion for source control.
-- Developed Sql Server and Oracle versions of the database, in both clean and upgrade installation scenarios.
-- Developed a Powershell module to simplify our existing process of creating / upgrading the databases on dev boxes, and for switching between multiple environments.
+- Contributed to the flagship product, _CareWebQI_ including as the sole developer for a customer preview site of new functionality
+- Contributed to MSSQL Server and Oracle versions of the database, in both clean and upgrade installation scenarios.
+- Developed a Powershell module to simplify our existing process of creating / upgrading the databases on developer workstations, and for switching between multiple environments.
 
 ### Ventyx, an ABB Company (formerly _Insert Key Solutions, Inc._)
 
@@ -61,14 +59,11 @@ November 2006--October 2011
 
 #### Software Developer / Analyst
 
-- Gathered and analyzed requirements from customers
-- Developed web applications in ASP.NET Web Forms
-- Developed Sql Server and Oracle based backends
+- Met with customer representatives to gather requirements
+- Contributed to _IKSHealth_, a product suite focused on equipment reliability for the nuclear power industry. The suite comprised several applications, written in **ASP.NET** with **MSSQL Server** and **Oracle** backends.
 - Created installation / upgrade scripts, and performed installation in customer environments.
-- Spearheaded an effort to develop and utilize a set of in-house libraries (responsibility later transferred to another developer)
-- Agile development, using Visual Studio 2010 and Team Foundation Server integration for maintenance of source code and issue tracking.
-- Loaded legacy data from customer sources, typically Excel spreadsheets and Access databases
-- Development of integration procedures for communication between our applications and the customers' other systems
+- Spearheaded an effort to develop and utilize a set of in-house libraries
+- Contributed to integration procedures for communication between our applications and the customers' other systems
 
 ::: { #skills }
 ## Skills { #skills-h }
@@ -80,5 +75,5 @@ Cloud Technology
 : Amazon Web Services
 
 Programming languages
-: .NET (Mostly C#, some F#), Python, Node.js, Go
+: .NET (Mostly C#, some F#), Python, Javascript (Browser, and Node.js)
 :::
