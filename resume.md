@@ -49,8 +49,7 @@ October 2011--May 2013
 
 #### Software Development Engineer
 
-- Contributed to the flagship product, _CareWebQI_ including as the sole developer for a customer preview site of new functionality
-- Contributed to MSSQL Server and Oracle versions of the database, in both clean and upgrade installation scenarios.
+- Contributed to _CareWebQI_, a product to support _Evidence-based healthcare_ decisions, used by healthcare providers and payors. Written in **ASP.NET** with **MSSQL Server** and **Oracle** backends.
 - Developed a Powershell module to simplify our existing process of creating / upgrading the databases on developer workstations, and for switching between multiple environments.
 
 ### Ventyx, an ABB Company (formerly _Insert Key Solutions, Inc._)
@@ -59,11 +58,11 @@ November 2006--October 2011
 
 #### Software Developer / Analyst
 
-- Met with customer representatives to gather requirements
 - Contributed to _IKSHealth_, a product suite focused on equipment reliability for the nuclear power industry. The suite comprised several applications, written in **ASP.NET** with **MSSQL Server** and **Oracle** backends.
 - Created installation / upgrade scripts, and performed installation in customer environments.
+- Met with customer representatives to gather requirements
 - Spearheaded an effort to develop and utilize a set of in-house libraries
-- Contributed to integration procedures for communication between our applications and the customers' other systems
+- Contributed to integration procedures for communication between IKSHealth and customer's other systems
 
 ::: { #skills }
 ## Skills { #skills-h }
