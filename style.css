@@ -37,3 +37,13 @@ ul>li {
 #skills>dl>dd {
     padding-bottom: 1ex;
 }
+
+#letterbody h2 {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+#signatureblock>p:first-child {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}

@@ -12,7 +12,7 @@ email
 :::
 
 ::: { #summary }
-Software Generalist with **15+ years of experience**, specializing in distributed systems, and an eye towards both sides of the DevOps lifecycle.
+Software Developer with **15+ years of experience**, specializing in distributed systems, and an eye towards both sides of the DevOps lifecycle.
 :::
 
 ## Experience
