@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @recfab
 - 👀 I’m interested in web development (full-stack, but especially backend), DevOps tools and practices; Developer Experience
-- 🌱 I’m currently learning ArgoCD; Istio; Threat modeling
+- 🌱 I’m currently learning Network Engineering
 - 💞️ I’m looking to collaborate on DevOps tools, especially surrounding Kuberenetes
-- 📫 How to reach me 
+- 📫 How to reach me
   - [GitLab](https://gitlab.com/recfab)
   - [GitHub](https://github.com/recfab)
 
